@@ -68,4 +68,3 @@ map <F4> zo
 
 
 set nu
-source $HOME/env/vim/plugin/taglist.vim
