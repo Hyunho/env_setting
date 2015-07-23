@@ -20,7 +20,7 @@ And you exectue init scripts
 
 Following references help me to make environment
 
-- [for git config in init.sh](enviro://github.com/mimul/dev-environment/blob/master/mac-git.md)  
+- [for git config in init.sh](https://github.com/mimul/dev-environment/blob/master/mac-git.md)
 
 
 
