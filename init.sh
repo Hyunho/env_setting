@@ -6,3 +6,5 @@ git config --global alias.lg 'log --graph --date=short --decorate=short --pretty
 git config --global alias.dlg 'log --stat --decorate=full --pretty=format:"%C(yellow)%h %C(green)%cr %C(blue)%cn%Creset %C(red reverse)%d%Creset %Creset%s %C(cyan)%b"'
 git config --global alias.mlg 'log --merges --pretty=format:"%C(yellow)%h %Cgreen%ci %Cblue%cn%Creset %C(red reverse)%d%Creset %Creset%s %C(cyan)%b"'
 
+echo "source ~/env_setting/vimrc" >> $HOME/.vimrc
+
