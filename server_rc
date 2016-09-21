@@ -1,0 +1,15 @@
+#!/bin/bash
+
+alias ds1='ssh hyunho@10.10.1.25'
+alias ds2='ssh hyunho@10.10.1.26'
+alias ds3='ssh hyunho@10.10.1.27'
+alias ds4='ssh hyunho@10.10.1.28'
+alias ds5='ssh hyunho@10.10.1.32'
+alias ds6='ssh hyunho@10.10.1.33'
+alias ds7='ssh hyunho@10.10.1.34'
+alias ds8='ssh hyunho@10.10.1.35'
+
+alias mp='ssh oam@10.10.1.35'
+alias omp='ssh oam@10.10.1.36'
+
+alias upsf='ssh skupsf@10.10.1.143'
