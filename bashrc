@@ -1,7 +1,8 @@
 
-alias cfind='find . -name "*.[h|c]"'
+#source ${HOME}/env_setting/server_rc
 
-source ${HOME}/env_setting/server_rc
+set -o vi
+PATH=$PATH:$HOME/my_env/bin
 
 
 
