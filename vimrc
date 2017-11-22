@@ -60,6 +60,7 @@ set cindent
 set exrc
 set tags=~/Users/hyunho/Workspace/telcoware/src/telcobase3,tags,
 set ruler   " show the cursor position all the time
+set paste
 
 map ~ [{v]}zf
 map ! zo
@@ -68,3 +69,5 @@ map <F4> zo
 
 
 set nu
+
+execute pathogen#infect()
